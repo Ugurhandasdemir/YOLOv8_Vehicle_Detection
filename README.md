@@ -4,4 +4,4 @@
 ### Model Sonuçları
 [![Eğitim Videosu](https://img.youtube.com/vi/rUq1ZLTppGM/0.jpg)](https://www.youtube.com/watch?v=rUq1ZLTppGM)
 
-Videonun Altındaki Metin: Bu video, YOLOv8l modelinin eğitimi sırasında elde edilen sonuçları göstermektedir.
+Bu video, YOLOv8l modelinin eğitimi sırasında elde edilen sonuçları göstermektedir.
